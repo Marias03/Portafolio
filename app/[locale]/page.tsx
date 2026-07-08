@@ -7,7 +7,7 @@ import LoadingScreen from "@/components/LoadingScreen";
 
 export default function HomePage() {
   return (
-    <main className="min-h-screen bg-[#0B0F17] text-white">
+    <main className="min-h-screen  w-full overflow-x-hidden bg-[#0B0F17] text-white">
       <LoadingScreen />
       <Navbar />
       <Hero />
