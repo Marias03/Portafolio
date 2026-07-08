@@ -1,0 +1,52 @@
+{
+  "Navbar": {
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Stack",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "tag": "Full Stack Developer · AI Product Builder",
+    "title": "I turn ideas into digital products.",
+    "description": "I build complete web products from concept to launch: clean interfaces, backend logic, databases, automation and AI-powered features.",
+    "projects": "See what I build",
+    "contact": "Work with me"
+  },
+  "About": {
+    "title": "What I bring",
+    "description": "I am a software engineer who builds more than web pages. I transform product ideas into functional applications with real user flows, data, APIs and AI integrations. My strength is connecting technical execution with product thinking: understanding the problem, designing the flow and building the system behind it."
+  },
+  "Projects": {
+    "tag": "Portfolio",
+    "title": "Products I have built",
+    "description": "A selection of projects where I combine frontend, backend, databases, artificial intelligence, automation and product thinking.",
+    "status": "Available",
+    "noDemo": "Repository available",
+    "items": {
+      "aiProductMentor": {
+        "description": "An AI-powered product assistant that helps Product Owners move from messy ideas to structured user stories, PRDs and prioritization inputs."
+      },
+      "lockPoint": {
+        "description": "A digital luggage storage system designed mainly for airports. It integrates three locations: Moscow, Kazan and Saint Petersburg, with reservations, admin management, email PIN delivery and operational logic."
+      },
+      "latam": {
+        "description": "A real multilingual platform for the Latin American Association in Kazan, connecting events, procedures, representatives and chatbot support."
+      },
+      "pigeonFree": {
+        "description": "An application designed to help people with columbophobia, commonly known as fear of pigeons, by creating safer urban routes through risk prediction using geodata, weather and city context."
+      }
+    }
+  },
+  "Skills": {
+    "title": "Technologies I use to build"
+  },
+  "Contact": {
+    "title": "Have an idea that needs to become a real product?",
+    "description": "I am open to full-stack, frontend and AI product roles where I can build useful, practical and user-centered digital solutions.",
+    "github": "GitHub",
+    "Gmail": "Gmail"
+  },
+  "Loading": {
+    "text": "Building digital products..."
+  }
+}

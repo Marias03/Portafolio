@@ -1,0 +1,52 @@
+{
+  "Navbar": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "skills": "Stack",
+    "contact": "Contacto"
+  },
+  "Hero": {
+    "tag": "Desarrolladora Full Stack · AI Product Builder",
+    "title": "Convierto ideas en productos digitales.",
+    "description": "Construyo productos web completos desde la idea hasta el lanzamiento: interfaces limpias, lógica backend, bases de datos, automatización y funciones con inteligencia artificial.",
+    "projects": "Ver lo que construyo",
+    "contact": "Trabajemos juntos"
+  },
+  "About": {
+    "title": "Lo que aporto",
+    "description": "Soy ingeniera de software y construyo más que páginas web. Transformo ideas de producto en aplicaciones funcionales con flujos reales de usuario, datos, APIs e integraciones con IA. Mi fortaleza es conectar ejecución técnica con pensamiento de producto: entender el problema, diseñar el flujo y construir el sistema detrás de la solución."
+  },
+  "Projects": {
+    "tag": "Portfolio",
+    "title": "Productos que he construido",
+    "description": "Una selección de proyectos donde combino frontend, backend, bases de datos, inteligencia artificial, automatización y pensamiento de producto.",
+    "status": "Disponible",
+    "noDemo": "Repositorio disponible",
+    "items": {
+      "aiProductMentor": {
+        "description": "Asistente de producto con IA que ayuda a Product Owners a convertir ideas desordenadas en user stories, PRDs e insumos de priorización."
+      },
+      "lockPoint": {
+        "description": "Sistema digital para guardar equipaje, pensado principalmente para aeropuertos. Integra tres ubicaciones: Moscú, Kazán y San Petersburgo, con reservas, administración, envío de PIN por correo y lógica operativa."
+      },
+      "latam": {
+        "description": "Plataforma multilingüe real para la Asociación Latinoamericana en Kazán, conectando eventos, procedimientos, representantes y soporte con chatbot."
+      },
+      "pigeonFree": {
+        "description": "Aplicación pensada para ayudar a personas con columbofobia, o miedo a las palomas, creando rutas urbanas más seguras mediante predicción de zonas con mayor riesgo usando geodatos, clima y contexto de ciudad."
+      }
+    }
+  },
+  "Skills": {
+    "title": "Tecnologías que uso para construir"
+  },
+  "Contact": {
+    "title": "¿Tienes una idea que necesita convertirse en producto?",
+    "description": "Estoy abierta a roles full stack, frontend y productos con IA donde pueda construir soluciones digitales útiles, prácticas y centradas en usuarios.",
+    "github": "GitHub",
+    "Gmail": "Correo"
+  },
+  "Loading": {
+    "text": "Construyendo productos digitales..."
+  }
+}
