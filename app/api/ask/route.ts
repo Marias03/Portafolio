@@ -77,5 +77,11 @@ Rules:
     },
   );
   const data = await res.json();
-  return NextResponse.json({ respuesta: data.result.response });
+
+  // Red de seguridad: borrar menciones de archivos que el modelo cuele
+  const respuestaLimpia = data.result.response
+    .replace(/\(?\s*(source|ver|fuente|источник)\s*:\s*[\w-]+\.md\s*\)?/gi, "")
+    .replace(/[\w-]+\.md/g, "her documents");
+
+  return NextResponse.json({ respuesta: respuestaLimpia });
 }
