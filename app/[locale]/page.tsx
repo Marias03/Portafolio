@@ -4,6 +4,7 @@ import Navbar from "@/components/Navbar";
 import Projects from "@/components/Projects";
 import Skills from "@/components/Skills";
 import LoadingScreen from "@/components/LoadingScreen";
+import AskMaria from "@/components/AskMaria";
 
 export default function HomePage() {
   return (
@@ -11,6 +12,7 @@ export default function HomePage() {
       <LoadingScreen />
       <Navbar />
       <Hero />
+      <AskMaria />
 
       <Projects />
       <Skills />

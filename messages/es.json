@@ -48,5 +48,12 @@
   },
   "Loading": {
     "text": "Construyendo productos digitales..."
+  },
+  "askMaria": {
+    "subtitulo": "IA · con tecnología RAG",
+    "saludo": "¡Hola! ✦ Soy AskMaria — pregúntame lo que quieras sobre la experiencia, proyectos o habilidades de María.",
+    "placeholder": "Escribe tu pregunta...",
+    "pensando": "Buscando en los documentos de María...",
+    "error": "Algo salió mal — inténtalo de nuevo."
   }
 }

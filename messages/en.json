@@ -48,5 +48,12 @@
   },
   "Loading": {
     "text": "Building digital products..."
+  },
+  "askMaria": {
+    "subtitulo": "AI · powered by RAG",
+    "saludo": "Hi! ✦ I'm AskMaria — ask me anything about Maria's experience, projects or skills.",
+    "placeholder": "Type your question...",
+    "pensando": "Searching Maria's docs...",
+    "error": "Something went wrong — please try again."
   }
 }
