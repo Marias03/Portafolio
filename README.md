@@ -54,9 +54,6 @@ projects and skills, in three languages, grounded in my actual documents.
 ```bash
 npm install
 
-# pgvector in Docker
-docker run --name askdb -e POSTGRES_PASSWORD=askpass123 \
-  -e POSTGRES_DB=askmaria -p 5433:5432 -d pgvector/pgvector:pg16
 
 # Env vars (see .env.example): DATABASE_URL, CLOUDFLARE_ACCOUNT_ID, CLOUDFLARE_API_TOKEN
 
